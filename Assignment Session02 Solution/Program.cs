@@ -368,7 +368,6 @@ namespace Assignment_Session02_Solution
 
             #endregion
 
-
             #region Q11- Given a queue reverse first K elements of a queue, keeping the remaining elements in the same order
 
             Queue<int> queue = new Queue<int>(new int[] { 1, 2, 3, 4, 5 });
